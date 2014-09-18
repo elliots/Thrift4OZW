@@ -46,7 +46,7 @@ make && sudo make install
 4) download OpenZWave
 =====================
 svn checkout http://open-zwave.googlecode.com/svn/trunk/ open-zwave-read-only
-cd open-zwave-read-only/cpp/build/linux
+cd open-zwave-read-only/cpp/build
 make
 
 5) compile ozwd!
